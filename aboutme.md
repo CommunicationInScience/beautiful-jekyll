@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About us
 subtitle: Who we are...
 ---
 
@@ -15,3 +15,8 @@ Helping scientists to communicate more effectively, to present the results of th
 <div class="greyblock">
 <h3><a href="http://www.communicationinscience.com/editing/">Editing Services</a></h3>
 Editing of reports, monographs and other documents and also of draft manuscripts before submission to English-language biomedical journals.
+
+</div>
+<div class="greyblock">
+<h3><a href="http://www.communicationinscience.com/online-tutorials/">Online Tutorials</a></h3>
+Tuition is given in writing different elements of a scientific paper.
