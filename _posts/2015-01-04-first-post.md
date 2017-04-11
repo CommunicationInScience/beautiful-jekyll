@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: /img/logo.png
+image: /img/hourglass.gif
 tags: [about, communication]
 ---
 
