@@ -24,7 +24,7 @@ description: Assistance In Biomedical Writing
 
 # List of links in the navigation bar
 navbar-links:
-  About us: "aboutme"
+  About us: "about"
   Resources:
     - Where we work: 
     - Epidemos: "http://epidemos.com"
